@@ -111,6 +111,4 @@ Confirm dependencies are installed in the venv:
 D:\claude-desktop-connectors\claude-gmail-mcp\venv\Scripts\python.exe -c "import mcp, googleapiclient; print('OK')"
 ```
 
-## License
 
-MIT
