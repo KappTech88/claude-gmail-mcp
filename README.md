@@ -1,8 +1,5 @@
-# Claude Gmail MCP (Multi-Account)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+# Claude Gmail MCP (
 [![Tools](https://img.shields.io/badge/tools-5-green.svg)]()
-[![Transport](https://img.shields.io/badge/transport-stdio-blue.svg)]()
 
 Local MCP server providing multi-account Gmail access for Claude Desktop. Search, read, draft, and manage emails across multiple Google accounts from a single interface.
 
