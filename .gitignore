@@ -1,0 +1,17 @@
+# Credentials & tokens
+credentials.json
+tokens/
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
